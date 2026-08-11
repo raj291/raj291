@@ -109,7 +109,7 @@ Analyzes transaction patterns to surface fraud, suspicious activity, and high-ri
 
 ![Raj's GitHub contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj291&theme=github_dark)
 
-![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj291&theme=github_dark)
+![Repositories by language](./assets/languages.svg)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=raj291&theme=transparent&hide_border=true&ring=EF4444&fire=F97316&currStreakLabel=EF4444)
 

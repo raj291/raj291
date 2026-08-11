@@ -53,7 +53,7 @@ Real-time construction-safety vision system that detects and tracks workers, ass
 
 Responsive Dubai real-estate experience with typed property data, filtering and sorting, dynamic detail routes, image galleries, community pages, and accessible inquiry flows.
 
-`TypeScript` `React 19` `Vite` `Vercel`
+`TypeScript` `React 19` `Vite` `Vercel` · [Live demo](https://veyra-realestate.vercel.app/)
 
 </td>
 </tr>

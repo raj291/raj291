@@ -49,11 +49,11 @@ Real-time construction-safety vision system that detects and tracks workers, ass
 </td>
 <td width="50%" valign="top">
 
-### [VEYRA Estates](https://github.com/raj291/Real-Estate-SPA)
+### [Global Disaster Prediction](https://github.com/raj291/global_disaster_prediction)
 
-Responsive Dubai real-estate experience with typed property data, filtering and sorting, dynamic detail routes, image galleries, community pages, and accessible inquiry flows.
+Research-oriented probabilistic forecasting platform for extreme precipitation, floods, tropical cyclones, and wildfires, with shared geospatial contracts, uncertainty, source lineage, and fail-closed validation.
 
-`TypeScript` `React 19` `Vite` `Vercel` · [Live demo](https://veyra-realestate.vercel.app/)
+`Python` `Next.js` `Geospatial Data` `Forecasting`
 
 </td>
 </tr>
@@ -102,6 +102,18 @@ Analyzes transaction patterns to surface fraud, suspicious activity, and high-ri
 <p align="center">
   <a href="https://github.com/raj291?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![Raj's GitHub contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj291&theme=github_dark)
+
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj291&theme=github_dark)
+
+![GitHub streak](https://streak-stats.demolab.com?user=raj291&theme=transparent&hide_border=true&ring=EF4444&fire=F97316&currStreakLabel=EF4444)
+
+</div>
 
 <!--
 WAKATIME: Add this section after creating and connecting a WakaTime account.

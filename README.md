@@ -44,7 +44,7 @@ Software engineer focused on dependable systems, practical AI, and thoughtful us
 
 Real-time construction-safety vision system that detects and tracks workers, associates PPE, and converts persistent safety signals into reviewable, evidence-backed events.
 
-`Python` `PyTorch` `YOLO` `ByteTrack` `FastAPI`
+`Python` `PyTorch` `YOLO` `ByteTrack` `FastAPI` · [Live demo](https://north-face-front-end.vercel.app/)
 
 </td>
 <td width="50%" valign="top">

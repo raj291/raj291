@@ -1,6 +1,6 @@
 <div align="center">
 
-![Raj Mahadik - Full-Stack and AI Software Engineer](./assets/header.svg)
+![Building Reliable Systems - Full-Stack, Backend, and Applied AI Engineering](./assets/header.svg)
 
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&center=true&vCenter=true&width=680&lines=Building+reliable+APIs+and+cloud-ready+platforms;Designing+event-driven+and+AI-powered+systems;Turning+complex+problems+into+useful+software)](https://git.io/typing-svg)
 
@@ -82,19 +82,6 @@ Analyzes transaction patterns to surface fraud, suspicious activity, and high-ri
 <p align="center">
   <a href="https://github.com/raj291?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
-
-## 📊 A little GitHub data
-
-<div align="center">
-
-![Raj's GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj291&theme=github_dark)
-
-<img height="165" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj291&theme=github_dark" />
-<img height="165" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj291&theme=github_dark" />
-
-![GitHub streak](https://streak-stats.demolab.com?user=raj291&theme=transparent&hide_border=true&ring=EF4444&fire=F97316&currStreakLabel=EF4444)
-
-</div>
 
 <!--
 WAKATIME: Add this section after creating and connecting a WakaTime account.

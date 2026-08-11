@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
-  <title id="title">Raj Mahadik</title>
-  <desc id="description">Full-Stack and AI Software Engineer</desc>
+  <title id="title">Building Reliable Systems</title>
+  <desc id="description">Full-Stack, Backend, and Applied AI Engineering</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ef4444"/>
@@ -20,7 +20,7 @@
   <path d="M85 122 L47 150 L85 178" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.82"/>
   <path d="M1115 122 L1153 150 L1115 178" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.82"/>
   <rect x="430" y="0" width="340" height="300" fill="url(#shine)" transform="skewX(-16)"/>
-  <text x="600" y="128" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="1">Raj Mahadik</text>
-  <text x="600" y="176" text-anchor="middle" fill="#ffffff" opacity="0.9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" letter-spacing="3">FULL-STACK &amp; AI SOFTWARE ENGINEER</text>
-  <text x="600" y="218" text-anchor="middle" fill="#ffffff" opacity="0.72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">Dubai, UAE  •  APIs  •  Distributed Systems  •  Applied AI</text>
+  <text x="600" y="128" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="1">Building Reliable Systems</text>
+  <text x="600" y="176" text-anchor="middle" fill="#ffffff" opacity="0.9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" letter-spacing="3">FULL-STACK  •  BACKEND  •  APPLIED AI</text>
+  <text x="600" y="218" text-anchor="middle" fill="#ffffff" opacity="0.72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">Python  •  .NET  •  React  •  Event-Driven Architecture</text>
 </svg>

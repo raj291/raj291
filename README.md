@@ -40,6 +40,26 @@ Software engineer focused on dependable systems, practical AI, and thoughtful us
 <tr>
 <td width="50%" valign="top">
 
+### [North Star](https://github.com/raj291/North-Star)
+
+Real-time construction-safety vision system that detects and tracks workers, associates PPE, and converts persistent safety signals into reviewable, evidence-backed events.
+
+`Python` `PyTorch` `YOLO` `ByteTrack` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### [VEYRA Estates](https://github.com/raj291/Real-Estate-SPA)
+
+Responsive Dubai real-estate experience with typed property data, filtering and sorting, dynamic detail routes, image galleries, community pages, and accessible inquiry flows.
+
+`TypeScript` `React 19` `Vite` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Online Mini Wallet](https://github.com/raj291/OnlineMiniWalletDemo)
 
 Concurrency-safe wallet API with idempotent credits, debits, transfers, transaction history, and layered negative-balance protection.

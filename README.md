@@ -5,7 +5,7 @@
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&center=true&vCenter=true&width=680&lines=Building+reliable+APIs+and+cloud-ready+platforms;Designing+event-driven+and+AI-powered+systems;Turning+complex+problems+into+useful+software)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-EF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://rajmahadik.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-4221111s/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-m666/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajmahdik29@gmail.com)
 
 </div>
@@ -137,7 +137,7 @@ END_SECTION:waka
 
 I'm open to software engineering opportunities and conversations about full-stack, backend, and AI systems.
 
-[Portfolio](https://rajmahadik.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/raj-4221111s/) · [Email](mailto:rajmahdik29@gmail.com)
+[Portfolio](https://rajmahadik.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/raj-m666/) · [Email](mailto:rajmahdik29@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EF4444&height=100&section=footer)
 

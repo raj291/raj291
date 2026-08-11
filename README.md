@@ -1,6 +1,6 @@
 <div align="center">
 
-![Raj Mahadik - Full-Stack and AI Software Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:7C3AED&height=180&section=header&text=Raj%20Mahadik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=18)
+![Raj Mahadik - Full-Stack and AI Software Engineer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Raj%20Mahadik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=18)
 
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&center=true&vCenter=true&width=680&lines=Building+reliable+APIs+and+cloud-ready+platforms;Designing+event-driven+and+AI-powered+systems;Turning+complex+problems+into+useful+software)](https://git.io/typing-svg)
 
